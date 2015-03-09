@@ -28,7 +28,9 @@ The easiest way:
 
 ![Drag and drop](/UsingGitHub/Images/RepoInOther.png)
 
-6. Click **Commit to master**.
+6. Click **Commit to master**. GitHub will then tell you that you have no new changes, but you have one unsynced. 
+
+![Drag and drop](/UsingGitHub/Images/Publish.png)
 
 7. Click **Publish**.
 
