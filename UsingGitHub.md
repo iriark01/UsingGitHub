@@ -85,19 +85,19 @@ The YML has some other abilities, if [you're interested](http://www.mkdocs.org/u
 
 - Log into docs.mbed.org with your developer.mbed.org credentials.
 
-![Logging in](/UsingGitHub/Images/DocsLogin.png)
+![Logging in](/Images/DocsLogin.png)
 
 - You'll be taken to your dashboard. Click Import a Project.
 
-![Import](/UsingGitHub/Images/Import.png)
+![Import](/Images/Import.png)
 
 - You get two importing options. Pick **Manually Import Project**.
 
-![Manually import](/UsingGitHub/Images/ManuallyImport.png)
+![Manually import](/Images/ManuallyImport.png)
 
 - Name your project and enter the GitHub repo URL.
 
-![Project details](/UsingGitHub/Images/ProjectDetails.png)
+![Project details](/Images/ProjectDetails.png)
 
 - Don't worry about the other options. Click **Next**.
 
@@ -105,7 +105,7 @@ The YML has some other abilities, if [you're interested](http://www.mkdocs.org/u
 
 - The project tries to build a first version as soon as it's created. Click **Builds** to see the build's progress. 
 
-![Project home page](/UsingGitHub/Images/ProjectHome.png)
+![Project home page](/Images/ProjectHome.png)
 
 When the build is done, you can click **View Docs** to see your project. 
 
